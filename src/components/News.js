@@ -84,7 +84,7 @@ export class News extends Component {
       content:
         "Three Canadian police officers have been charged in the shooting death of an 18-month-old child in November 2020. \r\nThe charges were announced following a nearly two year investigation by Ontario pol… [+2048 chars]",
     }, 
-    
+
     {
       source: {
         id: "bbc-news",
